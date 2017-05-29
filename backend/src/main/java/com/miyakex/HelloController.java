@@ -1,4 +1,4 @@
-package io.gitlab.randyyaj;
+package com.miyakex;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

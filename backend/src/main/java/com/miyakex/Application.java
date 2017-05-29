@@ -1,9 +1,9 @@
-package io.gitlab.randyyaj;
+package com.miyakex;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
-@SpringBootApplication(scanBasePackages="io.gitlab.randyyaj")
+@SpringBootApplication(scanBasePackages="com.miyakex")
 public class Application {
 
     public static void main(String[] args) {
