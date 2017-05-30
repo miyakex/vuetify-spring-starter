@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
+    "axios": "^0.16.1",
     "babel-core": "^6.0.0",
     "babel-eslint": "^7.0.0",
     "babel-loader": "^6.0.0",
@@ -73,8 +74,10 @@
     "vue-style-loader": "^1.0.0",
     "vue-template-compiler": "^2.1.0",
     "vuetify": "^0.12.2",
+    "vuex": "^2.3.1",
     "webpack": "^1.13.2",
     "webpack-dev-middleware": "^1.8.3",
+    "webpack-dev-server": "^2.4.5",
     "webpack-hot-middleware": "^2.12.2",
     "webpack-merge": "^0.14.1"
   },
